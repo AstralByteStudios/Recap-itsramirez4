@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <img src="/src/astral.png" height="50px"/> 
 <h3>
  Recap 2023 | itsramirez4
@@ -7,9 +7,8 @@
 </div>
 
 
-## 🚀 Getting Started
-
-1. [Fork](https://github.com/midudev/esland-web/fork) or clone this repository.
+## 🚀 Clona el proyecto
+1. [Fork](https://github.com/AstralByteStudios/Recap2023-itsramirez4/fork) or clone this repository.
 
 ```bash
 git clone git@github.com:midudev/esland-web.git
