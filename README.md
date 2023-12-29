@@ -10,19 +10,15 @@
     <a href="#" target="_blank">
         Preview
     </a>
-    <span>&nbsp;✦&nbsp;</span>
     <a href="#-getting-started">
         Clona el proyecto
     </a>
-    <span>&nbsp;✦&nbsp;</span>
     <a href="#-commands">
         Comandos
     </a>
-    <span>&nbsp;✦&nbsp;</span>
     <a href="#-license">
         Licencia
     </a>
-    <span>&nbsp;✦&nbsp;</span>
 </div>
 
 <p></p>
