@@ -24,30 +24,6 @@
     </a>
 </div>
 
-<p></p>
-
-<div align="center">
-
-![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/esland-web)
-![GitHub issues](https://img.shields.io/github/issues/midudev/esland-web)
-![GitHub forks](https://img.shields.io/github/forks/midudev/esland-web)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/esland-web)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-
-</div>
-
-> [!WARNING]
-> This page is not official. The official page is [**premiosesland.com**](https://premiosesland.com/).
-
-## 🛠️ Stack
-
-- [**Astro**](https://astro.build/) - The web framework for content-driven websites.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with syntax for types.
-- [**Tailwindcss**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
-- [**tailwindcss-animated**](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS.
-- [**fontsource**](https://fontsource.org/) - Self-host Open Source fonts in neatly bundled NPM packages.
-
 ## 🚀 Getting Started
 
 1. [Fork](https://github.com/midudev/esland-web/fork) or clone this repository.
