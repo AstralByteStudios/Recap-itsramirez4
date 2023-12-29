@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src="/src/astral.png" height="50px"/> 
 <h3>
  Recap 2023 | itsramirez4
