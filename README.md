@@ -6,23 +6,6 @@
 <p>Recap 2023 es una página web que muestra videos del año 2023 del canal de YouTube de itsramirez4.</p>
 </div>
 
-<div align="center">
-    <a href="#" target="_blank">
-        Preview
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-getting-started">
-        Clona el proyecto
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-commands">
-        Comandos
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-license">
-        Licencia
-    </a>
-</div>
 
 ## 🚀 Getting Started
 
