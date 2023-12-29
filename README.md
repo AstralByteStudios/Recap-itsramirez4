@@ -1,12 +1,11 @@
 <div align="center">
-<img src="/src/astral.png" height="50px"/> 
+<img src="/src/astral.png"/> 
 <h3>
  Recap 2023 | itsramirez4
 </h3>
 <p>Recap 2023 es una página web que muestra videos del año 2023 del canal de YouTube de itsramirez4.</p>
 </div>
 
-<div align="center">
 ## 🚀 Clona el proyecto
 
 Clona el repositorio:
@@ -19,9 +18,7 @@ git clone https://github.com/AstralByteStudios/Recap2023-itsramirez4.git
 ```bash
 # Abre el archivo index.html para ver el proyecto
 ```
-</div>
 
-<div align="center">
 ## 🧞 Comandos
 
 |     | Command          | Action                                        |
@@ -29,9 +26,7 @@ git clone https://github.com/AstralByteStudios/Recap2023-itsramirez4.git
 | ⚙️  | `dev` or `start` | Starts local dev server at `localhost:3000`.  |
 | ⚙️  | `build`          | Build your production site to `./dist/`.      |
 | ⚙️  | `preview`        | Preview your build locally, before deploying. |
-</div>
 
-<div align="center">
 ## 🔑 Licencia
 
 [MIT](#) - Creado por [**astralbytestudios**](https://www.instagram.com/astral_byte_studios/).
