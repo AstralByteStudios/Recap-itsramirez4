@@ -8,7 +8,7 @@
 
 
 ## 🚀 Clona el proyecto
-1. [Fork](https://github.com/AstralByteStudios/Recap2023-itsramirez4/fork) or clone this repository.
+1. [Fork](https://github.com/AstralByteStudios/Recap2023-itsramirez4/fork).
 
 ```bash
 git clone git@github.com:midudev/esland-web.git
