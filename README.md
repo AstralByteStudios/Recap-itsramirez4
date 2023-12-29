@@ -3,7 +3,7 @@
 
 <h1>Recap 2023 | itsramirez4</h1>
 <p>Recap 2023 es una página web que muestra videos del año 2023 del canal de YouTube de itsramirez4.</p>
-
+ </div>
 
 ## 🚀 Clona el proyecto
 Clona el repositorio:
@@ -27,4 +27,3 @@ git clone https://github.com/AstralByteStudios/Recap2023-itsramirez4.git
 
 ## 🔑 Licencia
 [MIT](#) - Creado por [**astralbytestudios**](https://www.instagram.com/astral_byte_studios/).
-</div>
