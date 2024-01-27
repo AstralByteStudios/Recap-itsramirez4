@@ -26,3 +26,6 @@ git clone https://github.com/AstralByteStudios/Recap2023-itsramirez4.git
 
 ## 🔑 Licencia
 [MIT](#) - Creado por [**astralbytestudios**](https://www.instagram.com/astral_byte_studios/).
+
+![854shots_so](https://github.com/AstralByteStudios/Recap2023-itsramirez4/assets/104223738/86bae347-99b6-4516-8c81-5d5e7ceafa15)
+![711shots_so](https://github.com/AstralByteStudios/Recap2023-itsramirez4/assets/104223738/552fe8d9-976e-48b6-b8e8-456046e7af7e)
