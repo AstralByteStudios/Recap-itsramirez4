@@ -17,13 +17,6 @@ git clone https://github.com/AstralByteStudios/Recap2023-itsramirez4.git
 # Abre el archivo index.html para ver el proyecto
 ```
 
-## 🧞 Comandos
-|     | Command          | Action                                        |
-| :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` or `start` | Starts local dev server at `localhost:3000`.  |
-| ⚙️  | `build`          | Build your production site to `./dist/`.      |
-| ⚙️  | `preview`        | Preview your build locally, before deploying. |
-
 ## 🎥 Imagenes de prueba
 ![854shots_so](https://github.com/AstralByteStudios/Recap2023-itsramirez4/assets/104223738/86bae347-99b6-4516-8c81-5d5e7ceafa15)
 
