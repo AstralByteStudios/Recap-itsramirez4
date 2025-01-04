@@ -1,8 +1,8 @@
 <div align="center">
 <img src="/src/astral.png" height="40px"/> 
 
-<h1>Recap 2023 | itsramirez4</h1>
-<p>Recap 2023 es una página web que muestra videos del año 2023 del canal de YouTube de itsramirez4.</p>
+<h1>Recap | itsramirez4</h1>
+<p>Recap es una página web que muestra videos del año 2023 del canal de YouTube de itsramirez4.</p>
  </div>
 
 
